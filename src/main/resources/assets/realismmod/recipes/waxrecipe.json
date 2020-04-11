@@ -1,0 +1,21 @@
+{
+  "group": "realismmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:water_bucket"
+    },
+    "1": {
+      "item": "minecraft:wool",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "realismmod:wax",
+    "count": 1
+  }
+}

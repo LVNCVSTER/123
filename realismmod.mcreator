@@ -1,0 +1,47 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Wax",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "WaxRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.wax.name": "Wax",
+      "item.realismmod.wax": "Wax"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "realismmod",
+    "modName": "REALISM_MOD",
+    "version": "1.0.0",
+    "author": "Пользователь, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.realismmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
